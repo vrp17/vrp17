@@ -1,3 +1,9 @@
+[<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/intro.gif" alt="👋 Hi there! I'm (Vedant Patil|https://vrp17)" title="👋 Hi there! I'm (Vedant Patil|https://vrp17)"/>](https://vrp17/)
+
+
+
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
+
 ### Hi there 👋
 
 <!--
