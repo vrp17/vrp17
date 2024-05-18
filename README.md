@@ -11,11 +11,18 @@
 
 - ⚡ Fun fact **"Debugging is like trying to find a needle in a jungle, but you're the needle, and the jungle is on fire."**
 
-
+- 🎯 𝙸𝚗 𝚝𝚑𝚎 𝚗𝚎𝚊𝚛 𝚏𝚞𝚝𝚞𝚛𝚎, 𝙸 𝚙𝚕𝚊𝚗 𝚝𝚘...
+- 🤞 𝙾𝚗𝚎 𝚍𝚊𝚢 𝙸 𝚑𝚘𝚙𝚎 𝚝𝚘...
+	- 𝙶𝚘 𝚜𝚔𝚢𝚍𝚒𝚟𝚒𝚗𝚐!
+  - Learn professional hacking.
+	- 𝙲𝚘𝚗𝚝𝚛𝚒𝚋𝚞𝚝𝚎 𝚌𝚘𝚍𝚎 𝚝𝚘 𝚝𝚑𝚎 𝙻𝚒𝚗𝚞𝚡 𝚔𝚎𝚛𝚗𝚎𝚕
+	
 
 <br>
 
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=vertical&theme=dark&border=true)](https://github.com/piyushsuthar/github-readme-quotes)
+
+
 
 <br>
 
