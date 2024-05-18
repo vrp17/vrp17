@@ -1,13 +1,15 @@
-[<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/intro.gif" alt="👋 Hi there! I'm (Vedant Patil|https://vrp17)" title="👋 Hi there! I'm (Vedant Patil|https://vrp17)"/>](https://vrp17/)
 
 
 
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
+
+
 
 ### Hi there 👋
 
 <!--
 **vrp17/vrp17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
 
 Here are some ideas to get you started:
 
